@@ -1,3 +1,6 @@
+//Bad Solution
+
+
 import Model.Entitites.Reservation;
 
 import java.text.ParseException;
